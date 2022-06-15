@@ -1,6 +1,6 @@
 <template>
   <header>
-      <h1>The Rishabh Blog</h1>
+      <h1>The Sandeep Blog</h1>
       <nav>
           <router-link :to="{name:'Home'}">Home</router-link>
           <router-link :to="{name:'CreateBlog'}">Create Blog </router-link>
